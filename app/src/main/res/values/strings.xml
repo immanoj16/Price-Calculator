@@ -6,7 +6,7 @@
     <string name="chocolate">Chocolate</string>
     <string name="quantinty_name">quantity</string>
     <string name="increment">+</string>
-    <string name="quantity">0</string>
+    <string name="quantity">1</string>
     <string name="decrement">-</string>
     <string name="order_summary">order summary</string>
     <string name="price">$0</string>
